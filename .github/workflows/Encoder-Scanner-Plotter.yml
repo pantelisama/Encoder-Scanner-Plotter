@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest  # Use the latest version of Ubuntu
+    runs-on: windows-latest  # Use the latest version of Windows
 
     steps:
     - name: Check out the code
